@@ -1,0 +1,19 @@
+{
+  "name": "tdd-testing",
+  "version": "1.0.0",
+  "description": "TDD=>Test-Driven-development;\r Red-green method:\r Red=>Write a test. The test fials because you have not written any code yet.\r Green=> The test passed because after you write a code\r Refactor=> Refactor the code for efficiency, and readability",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node adder.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "add-gitignore": "^1.1.1",
+    "gitignore": "^0.6.0"
+  }
+}

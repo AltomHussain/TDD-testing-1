@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1620214705167" clover="3.2.0">
+  <project timestamp="1620214705167" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="8" coveredelements="8" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2"/>
+    <file name="adder.js" path="C:\Users\wlinkdell\Desktop\TDD Testing\adder.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="11" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="multiplier.js" path="C:\Users\wlinkdell\Desktop\TDD Testing\multiplier.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
